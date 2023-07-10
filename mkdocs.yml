@@ -1,0 +1,15 @@
+site_name: Computational Thinking and Social Science
+
+nav:
+  - Home: index.md
+  - Readings: readings/index.md
+
+theme:
+  name: material
+
+plugins: []
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

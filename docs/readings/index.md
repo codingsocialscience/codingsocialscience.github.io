@@ -19,6 +19,8 @@ This page is an attempt to keep the discussions fresh.
 
 # Chapter 6: Simulations and Complex Systems
 
+## Using language models to simulate human activities
+
 # Chapter 7: Interactive Systems
 
 # Chapter 8: Best Practice for Software Development

@@ -33,6 +33,8 @@ This page is an attempt to keep the discussions fresh.
 
 # Chapter 11: Research Ethics in Computational Social Science
 
+## Developments in legal frameworks on research
+
 # Chapter 12: Mistakes and Quality of Results in Computational Social Sciences
 
 # Chapter 13: Integrating Computational Methods in Research

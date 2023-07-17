@@ -7,6 +7,12 @@ This page is an attempt to keep the discussions fresh.
 
 # Chapter 3: Data Science
 
+## Text as data and different presentations of text
+
+## Images as data and different representations of images
+
+## Neural networks
+
 # Chapter 4: Network Analysis
 
 # Chapter 5: Data Structures

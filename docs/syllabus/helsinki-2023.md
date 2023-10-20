@@ -3,6 +3,8 @@ University of Helsinki: Computational Thinking, Programming and Social Science
 ## Context
 
 This is a course organised at the University of Helsinki for Master and PhD students in social sciences.
+It has seven lectures, each lasting 3 hours.
+The lectures include both lecturing and time allocated to work with exercises.
 
 ### Learning goals
 
@@ -14,6 +16,9 @@ By the end of the course students can
 * use data structures to help in more complex problem solving
 * use software library documentation and use software libraries
 understand the basic idea of computational complexity and the limits it sets to problem solving
+
+At this course, we use the book Computational thinking and social science: combining programming, methodologies and fundamental concepts [available at the University of Helsinki library](https://helka.helsinki.fi/permalink/358UOH_INST/qatqfk/alma9934427732906253).
+Students are expected to read assigned sections and chapters of it before classes and work on exercises from the book.
 
 ## Lecture 1
 

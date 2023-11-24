@@ -2,7 +2,7 @@ site_name: Computational Thinking and Social Science
 
 nav:
   - Home: index.md
-  - Readings: readings/index.md
+  - Additional readings: readings/index.md
 
 theme:
   name: material

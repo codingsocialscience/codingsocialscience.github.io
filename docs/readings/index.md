@@ -33,8 +33,8 @@ This page is an attempt to keep the discussions fresh.
 
 # Chapter 11: Research Ethics in Computational Social Science
 
-## Developments in legal frameworks on research
-
 # Chapter 12: Mistakes and Quality of Results in Computational Social Sciences
+
+* Kapoor, S., & Narayanan, A. (2023). Leakage and the reproducibility crisis in machine-learning-based science. Patterns, 4(9), 100804. [https://doi.org/10.1016/j.patter.2023.100804](https://doi.org/10.1016/j.patter.2023.100804)
 
 # Chapter 13: Integrating Computational Methods in Research

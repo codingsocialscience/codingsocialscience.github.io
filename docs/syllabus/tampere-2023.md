@@ -2,6 +2,13 @@
 
 ### Learning goals
 
+- Students can list why computational turn is taking place and recognize ongoing academic discussions on the topic
+- Students can assess the ethical, validity and reliability dimensions of a research proposal
+- Students can formulate research questions which benefit from data science approaches
+- Students can formulate research questions which benefit from network analysis approaches
+- Students can formulate research questions which benefit from simulation-based approaches
+- Students can formulate research questions which benefit from interactive systems, experimental and design-based approaches
+
 ## Lecture 1
 
 ### Contents
@@ -172,4 +179,8 @@
 | 0:15 - 0:30 | Go through chapter review questions  | |
 | 0:30 - 1:20 | Individual and group work: Exercise 13.1 | |
 | 1:20 - 1:45 | Individual work collected to whiteboard: Exercise 13.9  | |
+
+## Student feedback
+
+* [Tampere, 2023](https://matnelteaching.wordpress.com/2024/01/05/computational-methods-in-research-on-social-political-and-economic-issues-tampere-university-fall-2023/)
 

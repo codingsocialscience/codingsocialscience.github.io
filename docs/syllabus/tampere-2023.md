@@ -46,4 +46,130 @@
 | 1:00 - 1:30 | Group work: Exercise 3.8 | | 
 | 1:30 - 1:45 | Lecture: Data science research practices | |
 
+## Lecture 3
+
+### Learning goal
+
+* Network as a representation
+* Approaches to analyse networks
+
+### Pre-assignment
+
+* Read Chapter 4
+* Write a short summary of chapter to the teacher and itemize any open questions
+
+### Lecture plan
+
+| Time | Content | Notes |
+|------|-------|-----------|
+| 0:15 - 0:30 | Go through chapter review questions  | |
+| 0:30 - 0:55 | Grouo work: Exercise 4.1 | |
+| 0:55 - 1:10 | Lecture: Different network types | |
+| 1:10 - 1:45 | Group work: Exercise 3.7 | | 
+
+
+## Lecture 4
+
+### Learning goal
+
+* Three different models of simulation
+* Contrasting thin and thick models
+* Complex systems thinking
+
+### Pre-assignment
+
+* Read Chapter 6
+* Write a short summary of chapter to the teacher and itemize any open questions
+
+### Lecture plan
+
+| Time | Content | Notes |
+|------|-------|-----------|
+| 0:15 - 0:30 | Go through chapter review questions  | |
+| 0:30 -1:10 | Grouo work: Exercise 6.3 | |
+| 0:10 - 1:30 | Lecture: Differences between simulation models | |
+| 1:30 - 1:45 | Individual work and discussion: Exercise 6.8 | | 
+
+## Lecture 5
+
+### Learning goal
+
+* Concept of an interactive system
+* Experiments with interactive systems
+* Design of interactive systems
+
+### Pre-assignment
+
+* Read Chapter 7
+* Write a short summary of chapter to the teacher and itemize any open questions
+
+### Lecture plan
+
+| Time | Content | Notes |
+|------|-------|-----------|
+| 0:15 - 0:30 | Go through chapter review questions  | |
+| 0:30 - 0:50 | Grouo work: Exercise 7.1 | |
+| 0:50 - 1:10 | Lecture: Experimental approaches and design thinking | |
+| 1:10 - 1:45 | Group work: Exercise 7.4 | | 
+
+## Lecture 6
+
+### Learning goal
+
+* Importance of ethics in computational social science
+* Questions on validity and reliability
+
+### Pre-assignment
+
+* Read Chapter 11
+* Reach Chapter 12
+* Write a short summary of chapter to the teacher and itemize any open questions
+
+### Lecture plan
+
+| Time | Content | Notes |
+|------|-------|-----------|
+| 0:15 - 0:30 | Go through chapter review questions for Chapter 11  | |
+| 0:30 - 0:45 | Group work: Exercise 11.7 | |
+| 0:45 - 1:10 | Group work: Exercise 11.8 | |
+| 1:10 - 1:25 | Go through chapter review questions for Chapter 12 | |
+| 1:25 - 1:45 | Individual work: Exercises 12.1, 12.3 and collection on whiteboard | |
+
+## Lecture 7
+
+### Learning goal
+
+* Conceptualisations of computational social science
+
+### Pre-assignment
+
+* Read Chapter 10
+* Write a short summary of chapter to the teacher and itemize any open questions
+
+### Lecture plan
+
+| Time | Content | Notes |
+|------|-------|-----------|
+| 0:15 - 0:30 | Go through chapter review questions  | |
+| 0:30 - 1:20 | Individual and group work: Exercise 10.2 | |
+| 1:20 - 1:45 | Lecture and discussion: Theory and computational social science | |
+
+## Lecture 8
+
+### Learning goal
+
+* Research process in computational social science
+
+### Pre-assignment
+
+* Read Chapter 13
+* Write a short summary of chapter to the teacher and itemize any open questions
+
+### Lecture plan
+
+| Time | Content | Notes |
+|------|-------|-----------|
+| 0:15 - 0:30 | Go through chapter review questions  | |
+| 0:30 - 1:20 | Individual and group work: Exercise 13.1 | |
+| 1:20 - 1:45 | Individual work collected to whiteboard: Exercise 13.9  | |
 

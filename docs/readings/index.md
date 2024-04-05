@@ -15,6 +15,10 @@ This page is an attempt to keep the discussions fresh.
 
 ## Working with existing models
 
+## Data science practices
+
+* Grimmer, J., Roberts, M. E., & Stewart, B. M. (2021). Machine Learning for Social Science: An Agnostic Approach. Annual Review of Political Science, 24(1), 395–419. https://doi.org/10.1146/annurev-polisci-053119-015921
+
 # Chapter 4: Network Analysis
 
 # Chapter 5: Data Structures
@@ -38,3 +42,7 @@ This page is an attempt to keep the discussions fresh.
 * Kapoor, S., & Narayanan, A. (2023). Leakage and the reproducibility crisis in machine-learning-based science. Patterns, 4(9), 100804. [https://doi.org/10.1016/j.patter.2023.100804](https://doi.org/10.1016/j.patter.2023.100804)
 
 # Chapter 13: Integrating Computational Methods in Research
+
+## Inductive and deductive reasoning logics
+
+* Grimmer, J., Roberts, M. E., & Stewart, B. M. (2021). Machine Learning for Social Science: An Agnostic Approach. Annual Review of Political Science, 24(1), 395–419. https://doi.org/10.1146/annurev-polisci-053119-015921

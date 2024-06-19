@@ -1,3 +1,5 @@
+Tampere University: course name
+
 ## Context
 
 ### Learning goals
@@ -49,7 +51,7 @@
 |------|-------|-----------|
 | 0:15 - 0:30 | Go through chapter review questions  | |
 | 0:30 - 0:45 | Grouo work: Exercise 3.1 | |
-| 0:45 - 1:00 | Lecture: Difference between data modelling and algorithmic modelling culture | |
+| 0:45 - 1:00 | Lecture: Difference between data modelling and algorithmic modelling culture and three different models of data science | |
 | 1:00 - 1:30 | Group work: Exercise 3.8 | | 
 | 1:30 - 1:45 | Lecture: Data science research practices | |
 

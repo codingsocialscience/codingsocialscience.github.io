@@ -43,6 +43,8 @@ This page is an attempt to keep the discussions fresh.
 
 * Kapoor, S., & Narayanan, A. (2023). Leakage and the reproducibility crisis in machine-learning-based science. Patterns, 4(9), 100804. [https://doi.org/10.1016/j.patter.2023.100804](https://doi.org/10.1016/j.patter.2023.100804)
 
+* Baden, C., Pipal, C., Schoonvelde, M., & van der Velden, M. A. C. G. (2022). Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda. Communication Methods and Measures, 16(1), 1–18. [https://doi.org/10.1080/19312458.2021.2015574](https://doi.org/10.1080/19312458.2021.2015574)
+
 # Chapter 13: Integrating Computational Methods in Research
 
 ## Inductive and deductive reasoning logics

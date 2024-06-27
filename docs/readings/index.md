@@ -35,6 +35,8 @@ This page is an attempt to keep the discussions fresh.
 
 # Chapter 10: Computational Social Science
 
+* Törnberg, P., & Uitermark, J. (2021). For a heterodox computational social science. Big Data & Society, 8(2), [https://doi.org/10.1177/20539517211047725](https://doi.org/10.1177/20539517211047725)
+
 # Chapter 11: Research Ethics in Computational Social Science
 
 # Chapter 12: Mistakes and Quality of Results in Computational Social Sciences
@@ -45,4 +47,4 @@ This page is an attempt to keep the discussions fresh.
 
 ## Inductive and deductive reasoning logics
 
-* Grimmer, J., Roberts, M. E., & Stewart, B. M. (2021). Machine Learning for Social Science: An Agnostic Approach. Annual Review of Political Science, 24(1), 395–419. https://doi.org/10.1146/annurev-polisci-053119-015921
+* Grimmer, J., Roberts, M. E., & Stewart, B. M. (2021). Machine Learning for Social Science: An Agnostic Approach. Annual Review of Political Science, 24(1), 395–419. [https://doi.org/10.1146/annurev-polisci-053119-015921](https://doi.org/10.1146/annurev-polisci-053119-015921)

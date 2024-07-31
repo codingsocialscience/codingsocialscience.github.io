@@ -4,9 +4,12 @@ nav:
   - Main: index.md
   - Book at SAGE: https://uk.sagepub.com/en-gb/eur/computational-thinking-and-social-science/book268542
   - Additional readings: readings/index.md
+  - About: about.md
 
 theme:
   name: material
+  logo: _site/thinker-white.png
+  favicon: _site/thinker-white.png
 
 plugins: []
 

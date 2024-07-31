@@ -1,4 +1,5 @@
-University of Helsinki: Computational Thinking, Programming and Social Science
+
+# Computational Thinking, Programming and Social Science, University of Helsinki, 2023
 
 ## Context
 

@@ -1,7 +1,8 @@
 site_name: Computational Thinking and Social Science
 
 nav:
-  - Home: index.md
+  - Main: index.md
+  - Book at SAGE: https://uk.sagepub.com/en-gb/eur/computational-thinking-and-social-science/book268542
   - Additional readings: readings/index.md
 
 theme:
@@ -13,3 +14,21 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.arithmatex
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.extra
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+
+theme:
+  name: material
+
+extra_css:
+  - _site/extra.css
+
+copyright: Copyright &copy; 2023 – Matti Nelimarkka
+
+extra:
+  generator: false

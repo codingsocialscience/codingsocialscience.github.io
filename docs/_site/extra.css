@@ -1,0 +1,36 @@
+@import url("https://use.typekit.net/yds1bbt.css");
+
+.dotted {
+  font-family: "punto",sans-serif;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.md-header__topic {
+  font-family: "punto",sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.md-nav__title {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight:normal;
+}
+
+:root {
+  --md-primary-fg-color:        #0D0E29;
+  --md-primary-fg-color--light: #0D0E29;
+  --md-primary-fg-color--dark:  #0D0E29;
+  --md-footer-bg-color:  #0D0E29;
+  --md-typeset-a-color: blue;
+}
+
+.md-footer-copyright {
+  color: white;
+}
+
+.md-typeset a {
+  color: blue;
+  text-decoration: underline;
+}

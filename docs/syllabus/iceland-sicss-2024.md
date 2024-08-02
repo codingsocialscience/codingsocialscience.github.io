@@ -61,7 +61,6 @@ The code exercises both in Python and R are available on a separate [repository]
 
 ### Lecture plan
 
-|------|-------|-----------|
 | Time | Content | Exercises |
 |------|-------|-----------|
 | 0:00 - 0:30 | Kickoff and chapter review | First ask for any open questions, then run X |
@@ -81,7 +80,6 @@ The code exercises both in Python and R are available on a separate [repository]
 
 ### Lecture plan
 
-|------|-------|-----------|
 | Time | Content | Exercises |
 |------|-------|-----------|
 | 0:00 - 0:30 | Kickoff and chapter review | First ask for any open questions, then run X |

@@ -44,7 +44,7 @@ This page is an attempt to keep the discussions fresh.
 * Kapoor, S., & Narayanan, A. (2023). Leakage and the reproducibility crisis in machine-learning-based science. Patterns, 4(9), 100804. [https://doi.org/10.1016/j.patter.2023.100804](https://doi.org/10.1016/j.patter.2023.100804)
 * Baden, C., Pipal, C., Schoonvelde, M., & van der Velden, M. A. C. G. (2022). Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda. Communication Methods and Measures, 16(1), 1–18. [https://doi.org/10.1080/19312458.2021.2015574](https://doi.org/10.1080/19312458.2021.2015574)
 * Birkenmaier, L., Lechner, C. M., & Wagner, C. (2023). The Search for Solid Ground in Text as Data: A Systematic Review of Validation Practices and Practical Recommendations for Validation. Communication Methods and Measures. [https://doi.org/10.1080/19312458.2023.2285765](https://doi.org/10.1080/19312458.2023.2285765
-)
+* Knöpfle, P., & Schatto-Eckrodt, T. (2024). The Challenges of Replicating Volatile Platform-Data Studies: Replicating Schatto-Eckrodt et al. (2020). Media and Communication, 12, 1–17. https://doi.org/10.17645/mac.7789
 
 # Chapter 13: Integrating Computational Methods in Research
 
